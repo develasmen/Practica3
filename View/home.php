@@ -25,8 +25,8 @@
                                         <div class="col-lg-8 col-md-10 mx-auto col-12">
                                              <div class="hero-text mt-5 text-center">
 
-                                                  <h6 data-aos="fade-up" data-aos-delay="300">Practica 3</h6>
-                                                  <h1 class="text-white" data-aos="fade-up" data-aos-delay="500">Bienvenido a ...!</h1>
+
+                                                  <h1 class="text-white" data-aos="fade-up" data-aos-delay="500">Bienvenido a almacen DAJAVA!</h1>
                                                   
                                              </div>
                                         </div>

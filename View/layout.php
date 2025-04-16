@@ -41,10 +41,10 @@ function PrintMenu()
                     </li>
 
                     <li class="nav-item">
-                        <a href="/Practica3/View/Consulta/Consulta.php" class="nav-link smoothScroll">Principal</a>
+                        <a href="/Practica3/View/Consulta/Consulta.php" class="nav-link smoothScroll">Consulta</a>
                     </li>
                     <li class="nav-item">
-                        <a href="/Practica3/View/Registro/Registro.php" class="nav-link smoothScroll">Abonos</a>
+                        <a href="/Practica3/View/Registro/Registro.php" class="nav-link smoothScroll">Registro</a>
                     </li>
                 </ul>
             </div>
